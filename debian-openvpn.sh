@@ -81,4 +81,4 @@ echo "net.ipv4.ip_forward=1" >> /etc/sysctl.conf
 clear
 
 echo "OpenVPN has been installed
-Download /root/keys.tgz using winscp or other sftp/scp client such as filezilla
+Download /root/keys.tgz using winscp or other sftp/scp client such as filezilla"
